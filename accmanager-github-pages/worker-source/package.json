@@ -1,0 +1,21 @@
+{
+  "name": "accmanager-worker",
+  "version": "1.0.0",
+  "description": "AccManager Cloudflare Worker Backend",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@noble/hashes": "^2.0.1",
+    "@node-rs/argon2": "^1.8.0",
+    "hono": "^4.0.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240117.0",
+    "typescript": "^5.3.3",
+    "wrangler": "^3.22.1"
+  }
+}
