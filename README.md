@@ -1,3 +1,7 @@
+For any support, you can contact me on my email :)
+rythampkhandelwal@gmail.com
+
+
 # AccManager - Cloudflare Pages Edition
 
 A secure, self-hosted accounts and secrets manager with Zero-Trust encryption. This version is designed for deployment entirely on Cloudflare's infrastructure (Pages + Workers + D1).
@@ -367,7 +371,7 @@ Via Admin Panel:
 
 ## 📄 License
 
-[Add your license here]
+[Apache License 2.0]
 
 ---
 
@@ -924,15 +928,15 @@ Then rebuild: `npm run build`
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/accmanager/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/accmanager/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/rythampkhandelwal/accmanager/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/rythampkhandelwal/accmanager/discussions)
+- **Email**: rythampkhandelwal@gmail.com
 
 ---
 
 ## 📄 License
 
-[Add your license]
+[Apache License 2.0]
 
 ---
 
